@@ -2415,7 +2415,7 @@
                           className: "flex flex-row space-x-3 relative z-50",
                           children: [
                             (0, l.jsx)(m, {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x272Ad29913D88505821c5F8E82A26d24E16c9012",
                               children: "Buy Now",
                             }),
                             (0, l.jsx)(m, {
