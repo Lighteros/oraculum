@@ -70,7 +70,7 @@
                     children: "DeSci",
                   }),
                   (0, s.jsx)(o.default, {
-                    href: "https://mighty-2.gitbook.io/oraculum-ai",
+                    href: "https://docs.oraculumai.org",
                     className:
                       "text-white flex flex-col w-full text-base font-bold leading-normal cursor-pointer hover:text-gray-300",
                     onClick: () => t(!1),
@@ -80,7 +80,7 @@
                     className:
                       "flex flex-row xl:flex-row items-center justify-center w-full space-x-2 xl:space-x-2 mt-2 xl:mt-0",
                     children: (0, s.jsx)(a.Z, {
-                      href: "https://staking-oraculum.vercel.app/",
+                      href: "https://app.oraculumai.org",
                       className: "text-sm px-4 py-2 whitespace-nowrap w-auto",
                       children: "Staking $ORC",
                     }),

@@ -2415,7 +2415,11 @@
                           className: "flex flex-row space-x-3 relative z-50",
                           children: [
                             (0, l.jsx)(m, {
-                              href: "https://mighty-2.gitbook.io/oraculum-ai",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                              children: "Buy Now",
+                            }),
+                            (0, l.jsx)(m, {
+                              href: "https://docs.oraculumai.org",
                               children: "Learn more",
                             }),
                           ],
