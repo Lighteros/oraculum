@@ -29,7 +29,7 @@
                 className: "flex justify-start items-center gap-2.5",
                 children: (0, s.jsx)(n.default, {
                   src: "/new-logo.svg",
-                  alt: "OpMentis Logo",
+                  alt: "Oraculum Logo",
                   width: 5200,
                   height: 1500,
                   priority: !0,
