@@ -70,7 +70,7 @@
                     children: "DeSci",
                   }),
                   (0, s.jsx)(o.default, {
-                    href: "https://docs.oraculumai.org",
+                    href: "https://doc.oraculumai.org",
                     className:
                       "text-white flex flex-col w-full text-base font-bold leading-normal cursor-pointer hover:text-gray-300",
                     onClick: () => t(!1),
